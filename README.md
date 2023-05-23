@@ -1,4 +1,5 @@
-# Apache!DOCTYPE html>
+# Apache
+<!DOCTYPE html>
 <html>
     <head>
        <title>Моя первая страница</title>
